@@ -3,5 +3,3 @@
 ANL252
 
 Description
-
-Assets
